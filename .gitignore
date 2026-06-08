@@ -1,0 +1,5 @@
+# --- GitIgnore ---
+# Git reconocerá e ignorará la configuración de archivos, carpetas y otros, que se pongan en este archivo
+
+# Ignora el directorio config de Obsidian
+**/.obsidian/
