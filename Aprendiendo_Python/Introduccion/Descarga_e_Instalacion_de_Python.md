@@ -1,3 +1,1 @@
 By: CISCO - NETCAD "PYTHON ESSENTIALS 1"
-
-## Fundamentos:
